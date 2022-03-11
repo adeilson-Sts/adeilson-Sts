@@ -1,6 +1,6 @@
 ### Oi, eu sou o Adeilson Santos!👋
 
-🤓 Atualmente Estudando JavaScript no front-end
+🤓 Atualmente Estudando JavaScript
 
 🏜 Nasceu e vive em Sergipe, Brasil 
 
